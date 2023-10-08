@@ -1,0 +1,13 @@
+.btnoption {
+  margin-left: 10px;
+  background-color: rgb(209, 184, 231);
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid black;
+  width: 100px;
+}
+
+.btnoption:hover,
+.btnoption:focus {
+  background-color: rgb(128, 227, 240);
+}
